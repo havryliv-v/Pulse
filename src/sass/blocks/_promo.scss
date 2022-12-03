@@ -15,6 +15,7 @@
       font-size: 42px;
       line-height: 42px;
       color: #FFFFFF;
+      text-transform: uppercase;
    }
 
    &__subheader {
@@ -23,6 +24,7 @@
       line-height: 24px;
       color: #FFFFFF;
       margin-top: 17px;
+      text-transform: uppercase;
    }
 
    &__icons {
@@ -44,6 +46,8 @@
          display: block;
          margin: 0 auto;
          margin-bottom: 20px;
+         width: 45px;
+         height: 45px;
       }
    }
 

@@ -1,0 +1,44 @@
+.advantages {
+   max-height: 473px;
+   padding: 70px 0 85px 0;
+   background-color: #F6F6F6;
+
+   &__header {
+      font-weight: 700;
+      font-size: 30px;
+      text-align: center;
+   }
+
+   &__icons {
+      margin-top: 60px;
+      display: flex;
+      justify-content: space-between;
+   }
+
+   &__icon {
+      width: 280px;
+      font-weight: 300;
+      font-size: 14px;
+      text-align: center;
+
+      img {
+         display: block;
+         margin: 0 auto;
+      }
+
+      span {
+         display: block;
+         margin: 35px 0 20px 0;
+         font-weight: 700;
+         font-size: 18px;
+
+      }
+
+      a {
+         color: #FF0000;
+         font-weight: 300;
+         font-family: 'Studio Script';
+      }
+   }
+
+}

@@ -5,9 +5,11 @@
 
    &__logo {
       width: 250px;
+      order: -1;
 
       img {
          width: 100%;
+         display: block;
       }
    }
 

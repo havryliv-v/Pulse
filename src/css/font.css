@@ -27,3 +27,12 @@
    font-weight: 700;
    font-style: normal;
 }
+
+@font-face {
+   font-family: 'Studio Script';
+   src: url('../Fonts/StudioScriptCTT.eot');
+   src: url('../Fonts/StudioScriptCTT.eot?#iefix') format('embedded-opentype'),
+      url('../Fonts/StudioScriptCTT.woff') format('woff'),
+      url('../Fonts/StudioScriptCTT.ttf') format('truetype');
+   font-weight: 300;
+}
